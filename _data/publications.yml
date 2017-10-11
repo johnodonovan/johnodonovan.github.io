@@ -1,0 +1,318 @@
+- authors: [Vishwajeet Narwal, Mohamed Hashim Salih, Jose Angel Lopez, Angel Ortega, John O'Donovan, "Tobias H\xF6llerer", Saiph Savage]
+  doi: 10.1145/3027063.3053227
+  key: conf/chi/NarwalSLOOHS17
+  title: Automated Assistants to Identify and Prompt Action on Visual News Bias.
+  where: Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems, Denver, CO, USA, May 06-11, 2017, Extended Abstracts.
+  year: 2017
+- authors: [Casey Dugan, Peter Brusilovsky, Elizabeth M. Daly, John O'Donovan]
+  doi: 10.1145/3030024.3030026
+  key: conf/iui/DuganBDO17
+  title: 'AWARE: Workshop on Awareness Interfaces and Interactions.'
+  where: Companion Publication of the 22nd International Conference on Intelligent User Interfaces, IUI 2017, Limassol, Cyprus, March 13-16, 2017
+  year: 2017
+- authors: [Peter Brusilovsky, Marco de Gemmis, Alexander Felfernig, Pasquale Lops, John O'Donovan, Nava Tintarev, Martijn C. Willemsen]
+  doi: 10.1145/3109859.3109961
+  key: conf/recsys/BrusilovskyGFLO17
+  title: RecSys'17 Joint Workshop on Interfaces and Human Decision Making for Recommender Systems.
+  where: Proceedings of the Eleventh ACM Conference on Recommender Systems, RecSys 2017, Como, Italy, August 27-31, 2017
+  year: 2017
+- authors: [Pigi Kouki, James Schaffer, Jay Pujara, John O'Donovan, Lise Getoor]
+  doi: 10.1145/3109859.3109915
+  key: conf/recsys/KoukiSPOG17
+  title: User Preferences for Hybrid Explanations.
+  where: Proceedings of the Eleventh ACM Conference on Recommender Systems, RecSys 2017, Como, Italy, August 27-31, 2017
+  year: 2017
+- authors: [YunSuk Chang, Benjamin Nuernberger, Bo Luan, "Tobias H\xF6llerer", John O'Donovan]
+  doi: 10.1109/VR.2017.7892383
+  key: conf/vr/ChangNLHO17
+  title: Gesture-based augmented reality annotation.
+  where: 2017 IEEE Virtual Reality, VR 2017, Los Angeles, CA, USA, March 18-22, 2017
+  year: 2017
+- authors: [Vishwajeet Narwal, Mohamed Hashim Salih, Jose Angel Lopez, Angel Ortega, John O'Donovan, "Tobias H\xF6llerer", Saiph Savage]
+  key: journals/corr/NarwalSLOOHS17
+  link: http://arxiv.org/abs/1702.06492
+  title: Automated Assistants to Identify and Prompt Action on Visual News Bias.
+  where: CoRR
+  year: 2017
+- authors: [Jeffrey Nichols, John O'Donovan, Jalal Mahmud]
+  doi: 10.1145/2911172.2911183
+  key: journals/aimatters/NicholsOM16
+  title: ACM IUI 2016 conference highlights.
+  where: AI Matters
+  year: 2016
+- authors: [Laura R. Marusich, Jonathan Z. Bakdash, Emrah Onal, Michael S. Yu, James Schaffer, John O'Donovan, "Tobias H\xF6llerer", Norbou Buchler, Cleotilde Gonzalez]
+  doi: 10.1177/0018720815619515
+  key: journals/hf/MarusichBOYSOHB16
+  title: 'Effects of Information Availability on Command-and-Control Decision Making: Performance, Trust, and Situation Awareness.'
+  where: Human Factors
+  year: 2016
+- authors: [Nava Tintarev, John O'Donovan, Alexander Felfernig]
+  doi: 10.1145/3014432
+  key: journals/tiis/TintarevOF16
+  title: Introduction to the Special Issue on Human Interaction with Artificial Advice Givers.
+  where: TiiS
+  year: 2016
+- authors: [James Schaffer, Brandon Huynh, John O'Donovan, "Tobias H\xF6llerer", Yinglong Xia, W. Sabrina Lin]
+  doi: 10.1109/ASONAM.2016.7752262
+  key: conf/asunam/SchafferHOHXL16
+  title: An analysis of student behavior in two massive open online courses.
+  where: 2016 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining, ASONAM 2016, San Francisco, CA, USA, August 18-21, 2016
+  year: 2016
+- authors: ["Renate H\xE4uslschmid", Yixin Shou, John O'Donovan, Gary Burnett, Andreas Butz]
+  doi: 10.1145/3003715.3005418
+  key: conf/automotiveUI/HauslschmidSOBB16
+  title: First Steps towards a View Management Concept for Large-sized Head-up Displays with Continuous Depth.
+  where: Proceedings of the 8th International Conference on Automotive User Interfaces and Interactive Vehicular Applications, AutomotiveUI 2016, Ann Arbor, MI, USA, October 24-26, 2016
+  year: 2016
+- authors: [Peter Brusilovsky, Alexander Felfernig, Pasquale Lops, John O'Donovan, Giovanni Semeraro, Nava Tintarev, Martijn C. Willemsen]
+  doi: 10.1145/2959100.2959199
+  key: conf/recsys/BrusilovskyFLOS16
+  title: RecSys'16 Joint Workshop on Interfaces and Human Decision Making for Recommender Systems.
+  where: Proceedings of the 10th ACM Conference on Recommender Systems, Boston, MA, USA, September 15-19, 2016
+  year: 2016
+- authors: [John O'Donovan, Shinsuke Nakajima, "Tobias H\xF6llerer", Mayumi Ueda, Yuuki Matsunami, Byungkyu Kang]
+  key: conf/recsys/ODonovanNHUMK16
+  link: http://ceur-ws.org/Vol-1679/paper9.pdf
+  title: A Cross-Cultural Analysis of Explanations for Product Reviews.
+  where: Proceedings of the Joint Workshop on Interfaces and Human Decision Making for Recommender Systems co-located with ACM Conference on Recommender Systems (RecSys 2016), Boston, MA, USA, September 16, 2016.
+  year: 2016
+- authors: [Byungkyu Kang, Nava Tintarev, "Tobias H\xF6llerer", John O'Donovan]
+  doi: 10.1007/978-3-319-47874-6_20
+  key: conf/socinfo/KangTHO16
+  title: What am I not Seeing? An Interactive Approach to Social Content Discovery in Microblogs.
+  where: Social Informatics - 8th International Conference, SocInfo 2016, Bellevue, WA, USA, November 11-14, 2016, Proceedings, Part II
+  year: 2016
+- authors: [Ivana Andjelkovic, Denis Parra, John O'Donovan]
+  doi: 10.1145/2930238.2930280
+  key: conf/um/AndjelkovicPO16
+  title: 'Moodplay: Interactive Mood-based Music Discovery and Recommendation.'
+  where: Proceedings of the 2016 Conference on User Modeling Adaptation and Personalization, UMAP 2016, Halifax, NS, Canada, July 13 - 17, 2016
+  year: 2016
+- authors: [Byungkyu Kang, "Tobias H\xF6llerer", John O'Donovan]
+  doi: 10.1145/2808797.2809379
+  key: conf/asunam/KangHO15
+  title: Believe it or Not? Analyzing Information Credibility in Microblogs.
+  where: Proceedings of the 2015 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining, ASONAM 2015, Paris, France, August 25 - 28, 2015
+  year: 2015
+- authors: [Byungkyu Kang, "Tobias H\xF6llerer", John O'Donovan]
+  doi: 10.1145/2808797.2809317
+  key: conf/asunam/KangHO15a
+  title: 'The Full Story: Automatic detection of unique news content in Microblogs.'
+  where: Proceedings of the 2015 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining, ASONAM 2015, Paris, France, August 25 - 28, 2015
+  year: 2015
+- authors: [James Schaffer, "Tobias H\xF6llerer", John O'Donovan]
+  key: conf/flairs/SchafferHO15
+  link: http://www.aaai.org/ocs/index.php/FLAIRS/FLAIRS15/paper/view/10444
+  title: 'Hypothetical Recommendation: A Study of Interactive Profile Manipulation Behavior for Recommender Systems.'
+  where: Proceedings of the Twenty-Eighth International Florida Artificial Intelligence Research Society Conference, FLAIRS 2015, Hollywood, Florida. May 18-20, 2015.
+  year: 2015
+- authors: [James Schaffer, Prasanna Giridhar, Debra Jones, "Tobias H\xF6llerer", Tarek F. Abdelzaher, John O'Donovan]
+  doi: 10.1145/2678025.2701406
+  key: conf/iui/SchafferGJHAO15
+  title: 'Getting the Message?: A Study of Explanation Interfaces for Microblog Data Analysis.'
+  where: Proceedings of the 20th International Conference on Intelligent User Interfaces, IUI 2015, Atlanta, GA, USA, March 29 - April 01, 2015
+  year: 2015
+- authors: [John O'Donovan, Nava Tintarev, Alexander Felfernig, Peter Brusilovsky, Giovanni Semeraro, Pasquale Lops]
+  doi: 10.1145/2792838.2798714
+  key: conf/recsys/ODonovanTFBSL15
+  title: Joint Workshop on Interfaces and Human Decision Making for Recommender Systems (#IntRS).
+  where: Proceedings of the 9th ACM Conference on Recommender Systems, RecSys 2015, Vienna, Austria, September 16-20, 2015
+  year: 2015
+- authors: [Nava Tintarev, Byungkyu Kang, "Tobias H\xF6llerer", John O'Donovan]
+  key: conf/recsys/TintarevKHO15
+  link: http://ceur-ws.org/Vol-1438/paper4.pdf
+  title: Inspection Mechanisms for Community-based Content Discovery in Microblogs.
+  where: Proceedings of the Joint Workshop on Interfaces and Human Decision Making for Recommender Systems, IntRS 2015, co-located with ACM Conference on Recommender Systems (RecSys 2015), Vienna, Austria, September 19, 2015.
+  year: 2015
+- authors: [Jalal Mahmud, Jeffrey Nichols, Michelle X. Zhou, James Caverlee, Yi Zeng, Liang Chen, John O'Donovan]
+  doi: 10.1145/2661829.2663538
+  key: conf/cikm/MahmudNZCZCO14
+  title: DUBMOD14 - International Workshop on Data-driven User Behavioral Modeling and Mining from Social Media.
+  where: Proceedings of the 23rd ACM International Conference on Conference on Information and Knowledge Management, CIKM 2014, Shanghai, China, November 3-7, 2014
+  year: 2014
+- authors: [Sujoy Sikdar, Sibel Adali, Md. Tanvir Al Amin, Tarek F. Abdelzaher, Kevin S. Chan, Jin-Hee Cho, Byungkyu Kang, John O'Donovan]
+  key: conf/fusion/SikdarAAACCKO14
+  link: http://ieeexplore.ieee.org/document/6915989/
+  title: Finding true and credible information on Twitter.
+  where: 17th International Conference on Information Fusion, FUSION 2014, Salamanca, Spain, July 7-10, 2014
+  year: 2014
+- authors: [Emrah Onal, John O'Donovan, Laura Marusich, Michael S. Yu, James Schaffer, Cleotilde Gonzalez, "Tobias H\xF6llerer"]
+  doi: 10.1007/978-3-319-07458-0_20
+  key: conf/hci/OnalOMYSGH14
+  title: 'Trust and Consequences: A Visual Perspective.'
+  where: Virtual, Augmented and Mixed Reality. Designing and Developing Virtual and Augmented Environments - 6th International Conference, VAMR 2014, Held as Part of HCI International 2014, Heraklion, Crete, Greece, June 22-27, 2014, Proceedings, Part I
+  year: 2014
+- authors: [Jason L. Harman, John O'Donovan, Tarek F. Abdelzaher, Cleotilde Gonzalez]
+  doi: 10.1145/2645710.2645761
+  key: conf/recsys/HarmanOAG14
+  title: Dynamics of human trust in recommender systems.
+  where: Eighth ACM Conference on Recommender Systems, RecSys '14, Foster City, Silicon Valley, CA, USA - October 06 - 10, 2014
+  year: 2014
+- authors: [Nava Tintarev, John O'Donovan, Peter Brusilovsky, Alexander Felfernig, Giovanni Semeraro, Pasquale Lops]
+  doi: 10.1145/2645710.2645787
+  key: conf/recsys/TintarevOBFSL14
+  title: RecSys'14 joint workshop on interfaces and human decision making for recommender systems.
+  where: Eighth ACM Conference on Recommender Systems, RecSys '14, Foster City, Silicon Valley, CA, USA - October 06 - 10, 2014
+  year: 2014
+- authors: [Jalal Mahmud, Jeffrey Nichols, Michelle X. Zhou, James Caverlee, John O'Donovan]
+  doi: 10.1145/2505515.2505812
+  key: conf/cikm/MahmudNZCO13
+  title: 'DUBMOD13: international workshop on data-driven user behavioral modelling and mining from social media.'
+  where: 22nd ACM International Conference on Information and Knowledge Management, CIKM'13, San Francisco, CA, USA, October 27 - November 1, 2013
+  year: 2013
+- authors: [Svetlin Bostandjiev, John O'Donovan, "Tobias H\xF6llerer"]
+  doi: 10.1145/2449396.2449412
+  key: conf/iui/BostandjievOH13
+  title: 'LinkedVis: exploring social and semantic career recommendations.'
+  where: 18th International Conference on Intelligent User Interfaces, IUI 2013, Santa Monica, CA, USA, March 19-22, 2013
+  year: 2013
+- authors: [James Schaffer, Byungkyu Kang, "Tobias H\xF6llerer", Hengchang Liu, Chenji Pan, Siyu Giyu, John O'Donovan]
+  doi: 10.1109/PerComW.2013.6529542
+  key: conf/percom/SchafferKHLPGO13
+  title: 'Interactive interfaces for complex network analysis: An information credibility perspective.'
+  where: 2013 IEEE International Conference on Pervasive Computing and Communications Workshops, PERCOM 2013 Workshops, San Diego, CA, USA, March 18-22, 2013
+  year: 2013
+- authors: [Sujoy Sikdar, Byungkyu Kang, John O'Donovan, "Tobias H\xF6llerer", Sibel Adali]
+  doi: 10.1109/SocialCom.2013.9
+  key: conf/socialcom/SikdarKOHA13
+  title: Understanding Information Credibility on Twitter.
+  where: International Conference on Social Computing, SocialCom 2013, SocialCom/PASSAT/BigData/EconCom/BioMedCom 2013, Washington, DC, USA, 8-14 September, 2013
+  year: 2013
+- authors: [Brynjar Gretarsson, John O'Donovan, Svetlin Bostandjiev, "Tobias H\xF6llerer", Arthur U. Asuncion, David Newman, Padhraic Smyth]
+  doi: 10.1145/2089094.2089099
+  key: journals/tist/GretarssonOBHANS12
+  title: 'TopicNets: Visual Analysis of Large Text Corpora with Topic Modeling.'
+  where: ACM TIST
+  year: 2012
+- authors: [Jalal Mahmud, James Caverlee, Jeffrey Nichols, John O'Donovan, Michelle X. Zhou]
+  doi: 10.1145/2396761.2398751
+  key: conf/cikm/MahmudCNDZ12
+  title: 'DUBMMSM''12: international workshop on data-driven user behavioral modeling and mining from social media.'
+  where: 21st ACM International Conference on Information and Knowledge Management, CIKM'12, Maui, HI, USA, October 29 - November 02, 2012
+  year: 2012
+- authors: [Byungkyu Kang, John O'Donovan, "Tobias H\xF6llerer"]
+  doi: 10.1145/2166966.2166998
+  key: conf/iui/KangOH12
+  title: Modeling topic specific credibility on twitter.
+  where: 17th International Conference on Intelligent User Interfaces, IUI 2012, Lisbon, Portugal, February 14-17, 2012
+  year: 2012
+- authors: [Svetlin Bostandjiev, John O'Donovan, "Tobias H\xF6llerer"]
+  doi: 10.1145/2365952.2365964
+  key: conf/recsys/BostandjievOH12
+  title: 'TasteWeights: a visual interactive hybrid recommender system.'
+  where: Sixth ACM Conference on Recommender Systems, RecSys '12, Dublin, Ireland, September 9-13, 2012
+  year: 2012
+- authors: [Bart P. Knijnenburg, Svetlin Bostandjiev, John O'Donovan, Alfred Kobsa]
+  doi: 10.1145/2365952.2365966
+  key: conf/recsys/KnijnenburgBOK12
+  title: Inspectability and control in social recommenders.
+  where: Sixth ACM Conference on Recommender Systems, RecSys '12, Dublin, Ireland, September 9-13, 2012
+  year: 2012
+- authors: [John O'Donovan, Byungkyu Kang, Greg Meyer, "Tobias H\xF6llerer", Sibel Adali]
+  doi: 10.1109/SocialCom-PASSAT.2012.128
+  key: conf/socialcom/ODonovanKMHA12
+  title: 'Credibility in Context: An Analysis of Feature Distributions in Twitter.'
+  where: 2012 International Conference on Privacy, Security, Risk and Trust, PASSAT 2012, and 2012 International Confernece on Social Computing, SocialCom 2012, Amsterdam, Netherlands, September 3-5, 2012
+  year: 2012
+- authors: [Markus Schaal, John O'Donovan, Barry Smyth]
+  doi: 10.1007/978-3-642-35386-4_18
+  key: conf/socinfo/SchaalOS12
+  title: An Analysis of Topical Proximity in the Twitter Social Graph.
+  where: Social Informatics - 4th International Conference, SocInfo 2012, Lausanne, Switzerland, December 5-7, 2012. Proceedings
+  year: 2012
+- authors: [Svetlin Bostandjiev, John O'Donovan, Christopher Hall, Brynjar Gretarsson, "Tobias H\xF6llerer"]
+  doi: 10.1109/ICSC.2011.8
+  key: conf/semco/BostandjievOHGH11
+  title: 'WiGipedia: A Tool for Improving Structured Data in Wikipedia.'
+  where: Proceedings of the 5th IEEE International Conference on Semantic Computing (ICSC 2011), Palo Alto, CA, USA, September 18-21, 2011
+  year: 2011
+- authors: [Brynjar Gretarsson, John O'Donovan, Svetlin Bostandjiev, Christopher Hall, "Tobias H\xF6llerer"]
+  doi: 10.1111/j.1467-8659.2009.01679.x
+  key: journals/cgf/GretarssonOBHH10
+  title: 'SmallWorlds: Visualizing Social Recommendations.'
+  where: Comput. Graph. Forum
+  year: 2010
+- authors: [John O'Donovan, Brynjar Gretarsson, Svetlin Bostandjiev, "Tobias H\xF6llerer", Barry Smyth]
+  doi: 10.1109/CSE.2009.26
+  key: conf/cse/ODonovanGBHS09
+  title: A Visual Interface for Social Information Filtering.
+  where: Proceedings of the 12th IEEE International Conference on Computational Science and Engineering, CSE 2009, Vancouver, BC, Canada, August 29-31, 2009
+  year: 2009
+- authors: [Brynjar Gretarsson, Svetlin Bostandjiev, John O'Donovan, "Tobias H\xF6llerer"]
+  doi: 10.1007/978-3-642-11805-0_13
+  key: conf/gd/GretarssonBOH09
+  title: 'WiGis: A Framework for Scalable Web-Based Interactive Graph Visualizations.'
+  where: Graph Drawing, 17th International Symposium, GD 2009, Chicago, IL, USA, September 22-25, 2009. Revised Papers
+  year: 2009
+- authors: [John O'Donovan]
+  doi: 10.1007/978-1-84800-356-9_9
+  key: series/hci/ODonovan09
+  title: Capturing Trust in Social Web Applications.
+  where: Computing with Social Trust
+  year: 2009
+- authors: [John O'Donovan, Barry Smyth, Brynjar Gretarsson, Svetlin Bostandjiev, "Tobias H\xF6llerer"]
+  doi: 10.1145/1357054.1357222
+  key: conf/chi/ODonovanSGBH08
+  title: 'PeerChooser: visual interactive recommendation.'
+  where: Proceedings of the 2008 Conference on Human Factors in Computing Systems, CHI 2008, 2008, Florence, Italy, April 5-10, 2008
+  year: 2008
+- authors: [John O'Donovan, Barry Smyth, Vesile Evrim, Dennis McLeod]
+  key: conf/ijcai/ODonovanSEM07
+  link: http://ijcai.org/Proceedings/07/Papers/454.pdf
+  title: Extracting and Visualizing Trust Relationships from Online Auction Feedback Comments.
+  where: IJCAI 2007, Proceedings of the 20th International Joint Conference on Artificial Intelligence, Hyderabad, India, January 6-12, 2007
+  year: 2007
+- authors: [John O'Donovan, Barry Smyth]
+  doi: 10.1142/S0218213006003053
+  key: journals/ijait/ODonovanS06
+  title: Mining Trust Values from Recommendation Errors.
+  where: International Journal on Artificial Intelligence Tools
+  year: 2006
+- authors: [John O'Donovan, Barry Smyth]
+  doi: 10.1145/1111449.1111476
+  key: conf/iui/ODonovanS06
+  title: 'Is trust robust?: an analysis of trust-based recommendation.'
+  where: Proceedings of the 11th International Conference on Intelligent User Interfaces, IUI 2006, Sydney, Australia, January 29 - February 1, 2006
+  year: 2006
+- authors: [John O'Donovan, Vesile Evrim, Barry Smyth, Dennis McLeod, Paddy Nixon]
+  key: conf/stairs/ODonovanESMN06
+  link: http://www.booksonline.iospress.nl/Content/View.aspx?piid=1871
+  title: Personalizing Trust in Online Auctions.
+  where: STAIRS 2006 - Proceedings of the Third Starting AI Researchers' Symposium, Riva del Garda, Trentino, Italy, 2006
+  year: 2006
+- authors: [John O'Donovan, Barry Smyth]
+  key: conf/flairs/ODonovanS05
+  link: http://www.aaai.org/Library/FLAIRS/2005/flairs05-048.php
+  title: Eliciting Trust Values from Recommendation Errors.
+  where: Proceedings of the Eighteenth International Florida Artificial Intelligence Research Society Conference, Clearwater Beach, Florida, USA
+  year: 2005
+- authors: [John O'Donovan, Barry Smyth]
+  key: conf/ijcai/ODonovanS05
+  link: http://ijcai.org/Proceedings/05/Papers/post-0411.pdf
+  title: 'Trust No One: Evaluating Trust-based Filtering for Recommenders.'
+  where: IJCAI-05, Proceedings of the Nineteenth International Joint Conference on Artificial Intelligence, Edinburgh, Scotland, UK, July 30 - August 5, 2005
+  year: 2005
+- authors: [John O'Donovan, Barry Smyth]
+  doi: 10.1145/1040830.1040870
+  key: conf/iui/ODonovanS05
+  title: Trust in recommender systems.
+  where: Proceedings of the 10th International Conference on Intelligent User Interfaces, IUI 2005, San Diego, California, USA, January 10-13, 2005
+  year: 2005
+- authors: [John O'Donovan, John Dunnion]
+  doi: 10.1007/978-3-540-27780-4_40
+  key: conf/ah/ODonovanD04
+  title: Evaluating Information Filtering Techniques in an Adaptive Recommender System.
+  where: Adaptive Hypermedia and Adaptive Web-Based Systems, Third International Conference, AH 2004, Eindhoven, The Netherlands, August 23-26, 2004, Proceedings
+  year: 2004
+- authors: [John O'Donovan, John Dunnion]
+  doi: 10.1007/978-3-540-24630-5_62
+  key: conf/cicling/ODonovanD04
+  title: A Framework for Evaluation of Information Filtering Techniques in an Adaptive Recommender System.
+  where: Computational Linguistics and Intelligent Text Processing, 5th International Conference, CICLing 2004, Seoul, Korea, February 15-21, 2004, Proceedings
+  year: 2004
+- authors: [John O'Donovan, John Dunnion]
+  doi: 10.1145/1071509.1071531
+  key: conf/isict/ODonovanD04
+  title: 'Adaptive recommendation: putting the best foot forward.'
+  where: Proceedings of the Intenational Symposium on Information and Communication Technologies, Las Vegas, Nevada, USA, June 16-18, 2004
+  year: 2004

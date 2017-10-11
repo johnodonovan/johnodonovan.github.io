@@ -1,0 +1,293 @@
+/* http://meyerweb.com/eric/tools/css/reset/
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline; }
+
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+  display: block; }
+
+body {
+  line-height: 1; }
+
+ol, ul {
+  list-style: none; }
+
+blockquote, q {
+  quotes: none; }
+
+blockquote:before, blockquote:after,
+q:before, q:after {
+  content: '';
+  content: none; }
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0; }
+
+.group:after {
+  visibility: hidden;
+  display: block;
+  content: "";
+  clear: both;
+  height: 0; }
+
+pre {
+  font-family: "Monaco", "Menlo", monospace;
+  font-size: 0.9em;
+  line-height: 1.5em; }
+
+h1, h2, h3, h4 {
+  margin: 1em 0;
+  font-weight: 500;
+  color: #4a4a4a; }
+
+h1 {
+  font-size: 2.0em;
+  font-weight: 300; }
+
+h2 {
+  font-size: 1.4em; }
+
+h3 {
+  font-size: 1.2em; }
+
+h4 {
+  font-size: 1.0em; }
+
+p {
+  margin: 1em 0;
+  line-height: 1.2em; }
+
+p.lead {
+  font-weight: 300;
+  font-size: 1.2em; }
+  p.lead b, p.lead strong {
+    font-weight: 500; }
+
+ul, ol {
+  margin: 1em 0;
+  margin-left: 2em; }
+  ul ul, ul ol, ol ul, ol ol {
+    margin-top: 0;
+    margin-bottom: 0; }
+
+ul {
+  list-style-type: disc; }
+
+ol {
+  list-style-type: decimal; }
+
+li {
+  line-height: 1.6em; }
+
+a {
+  color: #3F51B5;
+  text-decoration: none; }
+  a:hover, a:active {
+    color: #FF5722;
+    text-decoration: underline; }
+  a.active {
+    font-weight: bold; }
+
+b, strong {
+  font-weight: bold; }
+
+small {
+  font-size: 0.9em; }
+
+hr {
+  margin: 1em 0;
+  padding: 0;
+  height: 0;
+  border: none;
+  border-top: 1px solid #d1d1d1; }
+
+table {
+  margin: 1em 0;
+  border-collapse: collapse; }
+  table td, table th {
+    border: 1px solid #d1d1d1;
+    padding: 0.6em 1em; }
+  table thead {
+    font-weight: 500;
+    background-color: #efefef; }
+
+dl dt, dl dd {
+  line-height: 1.4em; }
+dl dt {
+  float: left;
+  width: 160px;
+  overflow: hidden;
+  clear: left;
+  text-align: right;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  font-weight: bold; }
+dl dd {
+  margin-left: 180px;
+  margin-bottom: 0.5em; }
+
+body {
+  font-family: "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+  font-size: 14px; }
+
+.content {
+  padding: 0 1em;
+  max-width: 1040px;
+  margin: 0px auto; }
+
+.footer {
+  padding: 1em 1em 3em; }
+
+hr {
+  border: none;
+  border-top: 1px solid #CCC; }
+
+.news-date {
+  color: #888; }
+
+.people-list {
+  list-style-type: none;
+  display: inline-block;
+  margin-right: 2em; }
+
+.people-item {
+  width: 100px;
+  vertical-align: top;
+  text-align: center;
+  display: inline-block;
+  margin-right: 2em;
+  margin-bottom: 1em;
+  font-size: 13px; }
+  .people-item .photo {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    background-position: center center;
+    background-size: cover;
+    border-radius: 4px; }
+
+.publication-item {
+  margin-bottom: 0.5em; }
+  .publication-item .publication-title {
+    font-weight: bold;
+    display: block; }
+  .publication-item .publication-authors, .publication-item .publication-controls {
+    display: block; }
+  .publication-item .publication-where {
+    font-style: italic;
+    display: block; }
+  .publication-item .publication-controls > span:not(:first-child):before {
+    content: " | ";
+    color: #CCC; }
+  .publication-item .publication-controls > span:first-child:before {
+    content: "[ ";
+    color: #CCC; }
+  .publication-item .publication-controls > span:last-child:after {
+    content: " ]";
+    color: #CCC; }
+
+.nav-list {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  border-bottom: 1px solid #d1d1d1; }
+  .nav-list > li {
+    display: inline-block;
+    border-radius: 4px; }
+    .nav-list > li a {
+      padding: 8px 12px;
+      display: inline-block; }
+    .nav-list > li.active {
+      background: #F8F8F8; }
+
+.header {
+  margin: 1em 0;
+  padding: 1em;
+  margin-bottom: 0;
+  background-image: url(../images/banner.png); }
+  .header h1, .header small {
+    display: inline; }
+  .header small {
+    margin-left: 1em; }
+
+.research-areas-list-view {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start; }
+  .research-areas-list-view .research-areas-areas ul {
+    margin-right: 1em; }
+  .research-areas-list-view .research-areas-areas li {
+    margin: 0; }
+    .research-areas-list-view .research-areas-areas li a {
+      display: block;
+      padding: 5px 10px; }
+    .research-areas-list-view .research-areas-areas li.active {
+      background-color: #efefef; }
+  .research-areas-list-view .research-areas-projects li {
+    margin-bottom: 1em;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start; }
+    .research-areas-list-view .research-areas-projects li .image {
+      width: 100px;
+      height: 100px;
+      background-position: center center;
+      background-size: cover;
+      border-radius: 4px;
+      align-self: center;
+      flex-shrink: 0; }
+    .research-areas-list-view .research-areas-projects li .content {
+      width: 100%;
+      align-self: center; }
+  .research-areas-list-view ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0; }
+
+.d3-tip {
+  line-height: 1;
+  padding: 6px;
+  background: rgba(0, 0, 0, 0.8);
+  color: #fff;
+  border-radius: 4px;
+  font-size: 12px; }
+
+/* Creates a small triangle extender for the tooltip */
+.d3-tip:after {
+  box-sizing: border-box;
+  display: inline;
+  font-size: 10px;
+  width: 100%;
+  line-height: 1;
+  color: rgba(0, 0, 0, 0.8);
+  content: "\25BC";
+  position: absolute;
+  text-align: center; }
+
+/* Style northward tooltips specifically */
+.d3-tip.n:after {
+  margin: -2px 0 0 0;
+  top: 100%;
+  left: 0; }
