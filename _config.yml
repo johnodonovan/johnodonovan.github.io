@@ -13,14 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Four Eyes Lab
-email: holl@cs.ucsb.edu
+title: John O'Donovan
+email: jod@cs.ucsb.edu
 description: > # this means to ignore newlines until "baseurl:"
-  Welcome to the UCSB Four Eyes Lab, in the Computer Science Department and the
-  Media Arts and Technology Program at the University of California, Santa Barbara.
-  Our research focus is on the "four I's" of Imaging, Interaction, and Innovative
-  Interfaces. The lab is directed by Professors Matthew Turk and Tobias Höllerer,
-  and includes several graduate and undergraduate students, postdocs and visitors.
+  I am an associate research scientist at the Computer Science dept., UCSB. My research background is in AI, with focus on recommender systems. I have a particular interest in human-computer interaction aspects of these systems --for example, learning how an interaction design impacts human trust in an algorithm over time. I am also a co-founder and CTO of Siras Systems Inc., providers of personalized educational planning and reporting.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
