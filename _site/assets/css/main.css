@@ -224,11 +224,13 @@ hr {
 
 .header {
   margin: 1em 0;
+  color: lightgray;
   padding: 1em;
   margin-bottom: 0;
   background-image: url(../images/banner.png); }
   .header h1, .header small {
-    display: inline; }
+    display: inline;
+    color: lightgray; }
   .header small {
     margin-left: 1em; }
 

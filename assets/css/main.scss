@@ -120,11 +120,13 @@ hr {
 .header {
     h1, small {
         display: inline;
+        color: lightgray;
     }
     small {
         margin-left: 1em;
     }
     margin: 1em 0;
+    color: lightgray;
     padding: 1em;
     margin-bottom: 0;
     background-image: url(../images/banner.png);
